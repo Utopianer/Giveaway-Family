@@ -12,6 +12,9 @@ After getting verified on the Discord you will see several new Channels, which h
 **Giveaways Channel** <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">\
 After you have started your Giveaway, you can post the Link to it in the Giveaways Channel. While it´s optional to do so, we highly recommend it as you will receive the special "grinder" role, showcasing your effort and activity inside the Community and enabling further benefits. It also helps the admins to find out who is posting Giveaways honestly.
 
-**Gift-Faucet Channel** <img src="../.gitbook/assets/image (2).png" alt="" data-size="line">****
+**Gift-Faucet Channel** <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">\
+This is a very special Channel, accessible only for verified members. You can ask for more free NFTs in this channel ANYTIME you want. We usually send out the wearables once every couple of days to everyone that posted a Ethereum address in this channel. You will receive up to 70 NFTs (6 different pieces) of common rarity. The Sponsors of these wearables have provided minting permissions to us, which is why we are allowed to send you more whenever you need. However, since 70 NFTs is A LOT to Giveaway, please only ask for free Stuff here if you gave away all your NFTs already.
+
+**Claim Channel** <img src="../.gitbook/assets/image (2).png" alt="" data-size="line">****
 
 ****
