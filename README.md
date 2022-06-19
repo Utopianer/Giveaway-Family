@@ -1,17 +1,25 @@
-# Welcome to the Git Repository of the Giveaway Family!
+---
+description: This is the Documentation Page of the Giveaway Family 🎁
+---
 
-We are a growing Community of Blockchain and Metaverse Enthusiasts supporting NFT creators with various promotional Services.
-Currently we are mostly focused on Decentraland based NFT Giveaways and Parties.
+# 👋 Introduction
 
-Head over to the Wiki, if you came here to Get Started in the Community:
+We are a growing Community of Blockchain and Metaverse Enthusiasts supporting NFT creators with various promotional Services. Currently we are mostly focused on [Decentraland](https://decentraland.org/) based NFT Giveaways on Twitter.
 
-Wiki: https://github.com/Utopianer/Giveaway-Family/wiki
 
-# Join Us
 
-Everyone is welcome!
-Just send us a message on:
+If you have any questions, send us a message on:
 
-Discord: https://discord.gg/wG3H8XjzE7
+Discord: [https://discord.gg/wG3H8XjzE7](https://discord.gg/wG3H8XjzE7)
 
-Twitter: https://twitter.com/NFTGiveawayFam
+Twitter: [https://twitter.com/NFTGiveawaysFam](https://twitter.com/NFTGiveawaysFam)
+
+## Join Us
+
+We are actively looking for people to help us post Giveaways for Sponsors!
+
+If you have a Twitter account, you can receive FREE NFTs and collect followers by posting Giveaways for us, continue reading to find out how to join.
+
+{% content-ref url="how-to-join.md" %}
+[how-to-join.md](how-to-join.md)
+{% endcontent-ref %}
