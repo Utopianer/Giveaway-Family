@@ -18,6 +18,7 @@ This is a very special Channel, accessible only for verified members. You can as
 **Claim Channel** <img src="../.gitbook/assets/image (2).png" alt="" data-size="line">\
 Whenever there is a new Sponsor in the Announcements, a new THREAD will show up here. In order to confirm your participation in the Sponsoring (and confirm you will post a Giveaway), you need to post your Ethereum address in that specific Thread. When navigating to this Channel, you will notice that you are only able to write inside the Threads and not inside the Channel - that´s intentional. Writing permissions will be locked after the Sponsoring ended, so keep an eye out for open Threads!
 
-**Sponsors** <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">****
+**Sponsors** <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">\
+Wondering what Sponsors we already had in the past? Need additional informations on who to tag in your Giveaway? In this Category you can find all our Sponsors and their linked Twitter accounts. They are sorted in chronological order, so the Sponsor at the top is usually the most recent one. Feel free to dig through the tweets of our Sponsors or even get in touch with them privately.
 
 ****
