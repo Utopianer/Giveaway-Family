@@ -15,3 +15,6 @@ You join the Giveaway Family by posting a first Giveaway yourself. Call this a p
 
 Continue reading to learn more about our best practises.
 
+{% content-ref url="how-to-giveaway/" %}
+[how-to-giveaway](how-to-giveaway/)
+{% endcontent-ref %}
