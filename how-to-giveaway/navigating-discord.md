@@ -9,4 +9,9 @@ After getting verified on the Discord you will see several new Channels, which h
 **Announcements Channel** <img src="../.gitbook/assets/image.png" alt="" data-size="line">****\
 ****Just as the name says, this is the most important Channel in the Discord. Keep an eye on upcoming Sponsorings here, some of them are highly limited and sometimes only the first people can get some, don´t slack!
 
+**Giveaways Channel** <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">\
+After you have started your Giveaway, you can post the Link to it in the Giveaways Channel. While it´s optional to do so, we highly recommend it as you will receive the special "grinder" role, showcasing your effort and activity inside the Community and enabling further benefits. It also helps the admins to find out who is posting Giveaways honestly.
+
+**Gift-Faucet Channel** <img src="../.gitbook/assets/image (2).png" alt="" data-size="line">****
+
 ****
