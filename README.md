@@ -1,5 +1,5 @@
 ---
-description: This is the Documentation Page of the Giveaway Family 🎁
+description: This is the Documentation Wiki of the Giveaway Family 🎁
 ---
 
 # 👋 Introduction
