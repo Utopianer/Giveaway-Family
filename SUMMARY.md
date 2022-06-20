@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Introduction](README.md)
+* [👋 Welcome!](README.md)
 * [🤔 How to Join](how-to-join.md)
 * [🎁 How to Giveaway](how-to-giveaway/README.md)
   * [Navigating Discord](how-to-giveaway/navigating-discord.md)
